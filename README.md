@@ -15,7 +15,7 @@
             srcset="">
         <p class="lead">Eu sou a Paola_</p>
         <h1>Eu estou aprendendo programação</h1>
-        <p>Sou aluna do 3ºsérie e estou aprendendo novas habilidades</p>
+        <p>Sou aluna da 3ºsérie e estou aprendendo novas habilidades</p>
         <p>Minhas habilidades</p>
         <div>
             <p class="badge bg-secondary">HTML</p>
